@@ -1,0 +1,20 @@
+Richard Lee
+rli315
+420423060
+
+Built in:
+Java 8, Java(TM) SE Runtime Environment (build 1.8.0_261-b12)
+
+About 5 or 6 hours
+
+Moving overlapped rectangle required a bit of thinking, drawing using graphics was a bit confusing at the beginning but easy once I got it. Rest was alright.
+
+What I modified:
+(1) I added a "Delete all" button on the top right, connection it with the "clear all" function.
+(2) On the left from "Delete All", I added the "Delete" button which deletes the shapes that was selected.
+(3) Added a "Move" Button on top right, when user select shapes and click the "Move" button, the user will be able to move shapes using keyboard'a arrow key.
+(4) Added the "Moving Text" option, texts and also be scaled up and down, as well as change colour by changing the "Fill Colour".
+
+Run the program by running the main file (A1)
+
+Thank you!
